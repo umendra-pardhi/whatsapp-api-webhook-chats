@@ -1,4 +1,4 @@
-const BASE = 'http://localhost:4000/api';
+const BASE = 'https://wa-api-7giu.onrender.com/api';
 
 
 
